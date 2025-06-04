@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698844206994",
+    "project_id": "cicdt2",
+    "storage_bucket": "cicdt2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698844206994:android:cfb016a38bcef83cf8d34b",
+        "android_client_info": {
+          "package_name": "com.cmmapps.cicdt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBTVihOi636GkIYk-QSQ1GtW5qYFwd-gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
